@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-image-file-resizer": "^0.2.1",
+    "react-resize-image": "^1.0.4"
+  }
+}
